@@ -4,7 +4,6 @@ import { useNavigate } from 'react-router-dom'
 import { Heading } from '../components/typography/heading'
 import { AppInput } from '../components/UI/appInput'
 import { AppButton } from '../components/UI/AppButton'
-import { useTheme } from '../hooks/useTheme'
 import { ThemeSwitcher } from '../components/UI/themeSwitcher'
 
 const Welcome = () => {
